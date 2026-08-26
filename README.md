@@ -1713,7 +1713,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,490 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-25 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,491 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-25 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1737,4 +1737,4 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
