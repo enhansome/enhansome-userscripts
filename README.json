@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:18.397Z",
+    "last_updated": "2026-08-27T19:58:08.164Z",
     "original_repository_info": {
       "archived": false,
       "id": 60018432,
@@ -9,7 +9,7 @@
       "last_commit": "2026-08-25T19:21:35Z",
       "owner": "awesome-scripts",
       "repo": "awesome-userscripts",
-      "stars": 3493
+      "stars": 3491
     },
     "original_repository_sha": "fd1f7c7ebef8a5130d2e60101aa3d5212c51e574",
     "enhanced_repository": "enhansome/enhansome-userscripts",
