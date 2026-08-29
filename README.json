@@ -1,15 +1,41 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:04.069Z",
+    "last_updated": "2026-08-29T04:18:26.029Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📖  A curated list of Awesome Userscripts.",
+      "homepage": null,
       "id": 60018432,
       "language": "JavaScript",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-25T19:21:35Z",
+      "open_issues": 2,
       "owner": "awesome-scripts",
       "repo": "awesome-userscripts",
-      "stars": 3491
+      "stars": 3491,
+      "topics": [
+        "ad-blocking",
+        "awesome",
+        "awesome-list",
+        "chatgpt",
+        "chrome",
+        "discord",
+        "duckduckgo",
+        "firefox",
+        "github",
+        "google",
+        "greasemonkey",
+        "greasyfork",
+        "javascript",
+        "list",
+        "privacy",
+        "privacy-tools",
+        "userscripts",
+        "violentmonkey",
+        "webpage",
+        "youtube"
+      ]
     },
     "original_repository_sha": "fd1f7c7ebef8a5130d2e60101aa3d5212c51e574",
     "enhanced_repository": "enhansome/enhansome-userscripts",
