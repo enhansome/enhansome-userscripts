@@ -614,7 +614,7 @@ Userscripts can be used w/ the following browsers:
     <summary><a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">Amazon Wishlist Search</a> - Adds a search input field to the wishlist dropdown (supports regex search).</summary><br>
     <blockquote>
         <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/#readme">
-            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/refs/heads/main/assets/amazon-wishlist-search-demo-480.gif"></a>
+            <img width=511 src="https://raw.githubusercontent.com/jhyland87/userscript-amazon-wishlist-search/615848b1f5977ce9245b4aea797e9bcfb9aaddc7/assets/amazon-wishlist-search-demo-480.Aug-25-2026.gif"></a>
     </blockquote>
     <blockquote>
         💾 <a href="https://github.com/jhyland87/userscript-amazon-wishlist-search/releases/latest/download/amazon-wishlist-search.user.js">
@@ -1690,7 +1690,7 @@ Userscripts can be used w/ the following browsers:
 * [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
 * [Greasemonkey Tutorial for Beginners](https://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
 * [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
-* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 2,031 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-20 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
+* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 2,031 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-20 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1713,7 +1713,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,491 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-25 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,491 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-30 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1737,4 +1737,4 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
