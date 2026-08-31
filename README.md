@@ -1690,7 +1690,7 @@ Userscripts can be used w/ the following browsers:
 * [Greasemonkey Hacks](https://www.oreilly.com/library/view/greasemonkey-hacks/0596101651/pr05s02.html) - Complete wiki book on Userscripts.
 * [Greasemonkey Tutorial for Beginners](https://hayageek.com/greasemonkey-tutorial/) - How to create simple Userscripts and installing it using Greasemonkey.
 * [Video - GreaseMonkey Userscript Development](https://www.youtube.com/watch?v=hAeWOOJPp0o)
-* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 2,031 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-20 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
+* [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) ⭐ 2,032 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-30 - A Vite plugin to develop and build userscripts for Tampermonkey, Violentmonkey, Greasemonkey, and ScriptCat.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1713,7 +1713,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,491 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-30 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,496 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-30 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1737,4 +1737,4 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
