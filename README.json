@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-12T13:05:42.343Z",
+    "last_updated": "2026-09-13T13:52:31.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖  A curated list of Awesome Userscripts.",
@@ -9,11 +9,11 @@
       "id": 60018432,
       "language": "JavaScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-01T08:39:24Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-12T18:33:04Z",
+      "open_issues": 2,
       "owner": "awesome-scripts",
       "repo": "awesome-userscripts",
-      "stars": 3514,
+      "stars": 3516,
       "topics": [
         "ad-blocking",
         "awesome",
@@ -37,7 +37,7 @@
         "youtube"
       ]
     },
-    "original_repository_sha": "9076a2512db72b19b49a82d825e87da6fed65153",
+    "original_repository_sha": "804e67561243e46b713c741546bebbca39820632",
     "enhanced_repository": "enhansome/enhansome-userscripts",
     "enhanced_repository_description": null,
     "title": "Awesome userscripts with stars"

@@ -33,7 +33,6 @@ Userscripts can improve your browsing experience, and open a lot of possibilitie
   * [Discord](#-discord)
   * [Display](#-display)
   * [DuckDuckGo](#-duckduckgo)
-  * [Fandom](#-fandom)
   * [GitHub](#-github)
   * [Google](#-google)
   * [Instagram](#-instagram)
@@ -718,22 +717,6 @@ Userscripts can be used w/ the following browsers:
     </blockquote>
 </details>
 
-<details> <!-- ChatGPT Auto-Continue -->
-    <summary><a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">ChatGPT Auto-Continue</a> - Automatically continue generating answers when ChatGPT responses get cut-off.</summary><br>
-    <blockquote>
-        <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/#readme">
-            <img width=600 src="https://cdn.staticdelivr.com/gl/adamlui/chatgpt-auto-continue/3d5b5b0/assets/images/tiles/marquee/tile625x250.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://codeberg.org/adamlui/ai-web-extensions/raw/branch/main/chatgpt-auto-continue/greasemonkey/chatgpt-auto-continue.user.js">
-            Install</a> /
-        📖 <a href="https://codeberg.org/adamlui/ai-web-extensions/src/branch/main/chatgpt-auto-continue/docs/#readme">
-            Readme</a> /
-        🐛 <a href="https://codeberg.org/adamlui/ai-web-extensions/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
 <details> <!-- ChatGPT Auto Refresh -->
     <summary><a href="https://codeberg.org/adamlui/chatgpt-auto-refresh/#readme">ChatGPT Auto Refresh</a> - Auto-sends background requests to keep sessions fresh & prevent Cloudflare checks + network errors.</summary><br>
     <blockquote>
@@ -948,26 +931,6 @@ Userscripts can be used w/ the following browsers:
         📢 <a href="https://github.com/KudoAI/duckduckgpt/discussions">
             Discuss</a> /
         🐛 <a href="https://github.com/KudoAI/duckduckgpt/issues">
-            Report bug</a>
-    </blockquote>
-</details>
-
-### <picture><source type="image/png" media="(prefers-color-scheme: dark)" srcset="https://www.fandom.com/favicon.ico"><img height=18 src="https://www.fandom.com/favicon.ico"></picture> Fandom
-
-<details> <!-- Fandom Focus -->
-    <summary><a href="https://greasyfork.org/scripts/528895-fandom-focus">Fandom Focus</a> - Removes all distractions and unnecessary clutter from Fandom.</summary><br>
-    <blockquote>
-        <a href="https://greasyfork.org/scripts/528895-fandom-focus">
-            <img width=720 src="https://raw.githubusercontent.com/samerop/fandom-focus/main/after.png"></a>
-    </blockquote>
-    <blockquote>
-        💾 <a href="https://update.greasyfork.org/scripts/528895/Fandom%20Focus.user.js">
-            Install</a> /
-        📖 <a href="https://greasyfork.org/scripts/528895-fandom-focus">
-            Readme</a> /
-        📢 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
-            Discuss</a> /
-        🐛 <a href="https://greasyfork.org/scripts/528895-fandom-focus/feedback">
             Report bug</a>
     </blockquote>
 </details>
@@ -1713,7 +1676,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,514 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-01 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,516 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-12 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1737,4 +1700,4 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
