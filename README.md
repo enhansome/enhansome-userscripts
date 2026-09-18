@@ -1676,7 +1676,7 @@ Userscripts can be used w/ the following browsers:
 
 Contributions are very welcome!
 
-Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,526 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-12 for guidelines.
+Please have a look at [CONTRIBUTING](https://github.com/awesome-scripts/awesome-userscripts/blob/master/CONTRIBUTING.md) ⭐ 3,527 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-12 for guidelines.
 
 <img height=6px width="100%" src="https://cdn.jsdelivr.net/gh/awesome-scripts/awesome-userscripts/assets/images/separators/gradient-aqua.png">
 
@@ -1700,4 +1700,4 @@ To the extent possible under law, contributors have waived all copyright and rel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
