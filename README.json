@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-25T13:53:38.137Z",
+    "last_updated": "2026-10-26T16:17:25.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "📖  A curated list of Awesome Userscripts.",
@@ -13,7 +13,7 @@
       "open_issues": 5,
       "owner": "awesome-scripts",
       "repo": "awesome-userscripts",
-      "stars": 3569,
+      "stars": 3575,
       "topics": [
         "ad-blocking",
         "awesome",
